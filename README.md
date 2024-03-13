@@ -144,3 +144,12 @@ We envision the following (yet fully up-to-you) strategy:
 - feed one image into the herin created algorithm
 - output a set of coordinates within physical bounds to steer the stage in XY
 - repeat this until the microscope exits the maze
+- 
+
+# The result
+
+We were able to control ImSwitch using BlaBlaDo! WhooHoo! :) 
+
+The Notebook can be found here:
+https://github.com/beniroquai/blablado/blob/main/demo/imswitch_Demo.ipynb
+
